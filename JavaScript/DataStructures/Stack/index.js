@@ -49,6 +49,8 @@ console.log(stack.size());
 // output: 5
 console.log(stack.isEmpty());
 // output: false
+console.log(stack.peek());
+// output: 5
 
 while (!stack.isEmpty()) {
   console.log(stack.pop());
