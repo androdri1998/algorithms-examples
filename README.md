@@ -13,3 +13,4 @@ Examples of Algorithms and Data Structures
 | Directory                                                          | Description                  |
 | ------------------------------------------------------------------ | ---------------------------- |
 | [Ordered Array](/JavaScript/DataStructures/OrderedArrays/index.js) | Ordered Array Data Structure |
+| [Queue](/JavaScript/DataStructures/Queue/index.js)                 | Queue Data Structure         |
